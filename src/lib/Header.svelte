@@ -1,0 +1,4 @@
+<header class="mb-10 p-4 bg-blue-800 text-white text-center" >
+  <p class="text-3xl md:text-5xl font-bold mb-3"> <i class="fa fa-viruses"/> Covid-19 Tracker </p>
+  <p> API by <a class="text-blue-300" href="https://covid19api.com">covid19api.com</a> </p>
+</header>
